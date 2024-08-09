@@ -1,3 +1,5 @@
+from inscheduler.data_model import *
+
 class Scheduler:
     def __init__(self):
         self.jobs = []
